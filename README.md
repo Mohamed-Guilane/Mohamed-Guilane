@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on developing web apps
-- 📫 How to reach me pmojmo on discord
+- 📫 How to reach me? --> pmojmo on discord
 
 
 <!---
