@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohamed-Guilane
-- 👀 I’m interested in game development 
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on developing rpgs
+- 💞️ I’m looking to collaborate on developing web apps
 - 📫 How to reach me pmojmo on discord
 
 
